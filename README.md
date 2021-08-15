@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**ShuklaDevashree963/shukladevashree963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Swift | IOS-tvOS | CI/CD - fastlane | Unit tests-TDD | Clean code | OOPS
 
-Here are some ideas to get you started:
+Passionate | Self learner | Self Directed | Detail oriented 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3 months official Notice period
+
+https://www.linkedin.com/in/devashree-shukla-64282a82/
+
+⭕️ I am currently working on a OTT platform iOS/tvOS app for a wellknown client and with a huge team with a great learning opportunities.
+
+⭕️ I am currently learning & exploring swift concepts, latest trends in iOS technologies
+
+⭕️ I am also practising Data structures, Algorithms, SwiftUI, OOPS, Agile, Best coding skills, Protocols, MVVM-C, VIPER, TDD etc
+
+⭕️ Improving leadership skills & architectural fundamentals for any apps
+
+
+🔆 I am looking to help fellow developers to learn and master Swift skills if they need. 
+🔆 I am also looking for excellent opportunities to get involved in.
+
+You can reach out to me at : 📩 shukladevashree963@gmail.com
