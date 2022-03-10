@@ -4,9 +4,11 @@ Software Engineer | Swift | IOS-tvOS | CI/CD - fastlane | Unit tests-TDD | Clean
 
 Passionate | Self learner | Self Directed | Detail oriented 
 
-3 months official Notice period
 
-https://www.linkedin.com/in/devashree-shukla-64282a82/
+LinkedIn : https://www.linkedin.com/in/devashree-shukla-64282a82/
+Leetcode : https://leetcode.com/DevashreeShukla/
+CodeChef : In process
+
 
 ⭕️ I am currently working on a OTT platform iOS/tvOS app for a wellknown client and with a huge team with a great learning opportunities.
 
@@ -21,3 +23,5 @@ https://www.linkedin.com/in/devashree-shukla-64282a82/
 🔆 I am also looking for excellent opportunities to get involved in.
 
 You can reach out to me at : 📩 shukladevashree963@gmail.com
+
+3 months official Notice period
