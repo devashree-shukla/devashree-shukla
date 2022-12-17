@@ -39,7 +39,7 @@ Outside the planetary of technologies and digital system, I enjoy pushing myself
 
 I am also a <img src="https://i.imgur.com/NbQ8aBb.gif" width="25" /> health enthusiat, love doing <img src="https://i.imgur.com/hcvXLSp.gif" width="25" /> walking and <img src="https://i.imgur.com/JJiFmWD.gif" width="25" /> meditations. 
 
-I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading books on personal development & financial literacy. My favorite ones are The Monk who sold his ferrari, Alchemist in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
+I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading books on personal development & financial literacy. My favorite ones are The Monk who sold his ferrari by Robin Sharma, Alchemist by Paulo Coelho in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
 I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Karnataka in 2017-2018, Kerala in 2019, Gwalior in 2021, Mumbai in 2022 etc and a lot more to go !!
 
