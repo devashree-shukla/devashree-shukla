@@ -6,6 +6,10 @@
 
 I am Devashree Shukla, an aspirant Apple developer, with a sound grip on iOS/tvOS technologies which help me manifest ideas into functional and reliable mobile apps.
 
+Currently, I am working with ![Robosoft Technologies](https://www.robosoftin.com) team to help them on simplyfying lives through digital transformations. I have been part of various projects, including discovery OTT platform and income tax related mobile apps for the goverment. I've utilised my skill-set in versatile ways to deliver value to the vision and mission of each project i've been part of at robosoft. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules of Discovery OOT platform project. I've succesfully tackled with handling time-sensitive high-priority tasks by collaborating with various stackholders and product team to deliver value. 
+
+
+
 In my free time, I try to learn new stuffs. My collegues and managers tell me I am passionate, self learner, self Directed, detail oriented, hard working.
 
 
@@ -91,7 +95,20 @@ In my free time, I try to learn new stuffs. My collegues and managers tell me I 
 #### - Extra Tools
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
+<!-- #### - Prtoject domains
 
+#### - Workspace Setup
+
+#### - Resume
+
+#### Websites I follow  -->
+<!-- swift
+swcurity related  -->
+<!-- AI related  -->
+
+<!-- #### RSS link -->
+
+#### - Blogs 
 
 <!-- ### Resume: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf) -->
 
@@ -101,7 +118,7 @@ In my free time, I try to learn new stuffs. My collegues and managers tell me I 
 
 [![Email](https://i.imgur.com/LvzAalc.png)](mail:shukladevashree963@gmail.com)
 [![Linkedin](https://i.imgur.com/O8ONzW7.png)](https://www.linkedin.com/in/devashree-shukla/)
-[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@shukladevashree963)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 [![Leetcode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/DevashreeShukla/)
 
 
