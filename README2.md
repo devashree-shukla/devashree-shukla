@@ -1,10 +1,11 @@
 
 
-## <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  Hello, there...
+<!-- ## <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  Hello, there... -->
+## <img src="https://i.imgur.com/x8XclAA.gif" width="60" />  Hello, there...
 
-<img align="right" src="https://i.imgur.com/x8XclAA.gif" width="180" />
+<!-- <img align="right" src="https://i.imgur.com/x8XclAA.gif" width="180" /> -->
 
-I am **_Devashree Shukla_**, **_a versatile Apple develope_r**, I posses <!--timespan:start(%d)(2015-06-01)-->**_7_+**<!--timespan:end(%d)(2015-06-05)--> **_years_** experience, with a sound grip on **iOS/tvOS** technologies which help me manifest ideas into functional and reliable mobile apps.
+I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--timespan:start(%d)(2015-06-01)-->**_7_+**<!--timespan:end(%d)(2015-06-05)--> **_years_** experience, with a sound grip on **_iOS/tvOS_** technologies which help me manifest ideas into functional and reliable mobile apps.
 
 Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com) team as a **_Senior Software Engineer_** to help them on simplyfying lives through digital transformations. I have been part of 2 Major projects, including Discovery's OTT platform and Govt's Income tax mobile apps for the goverment. I utilise my knowledge  & skill-set in versatile ways to deliver values. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules in my OTT project. I've succesfully tackled time-sensitive high-priority tasks by collaborating with various stackholders precisely, along with my software development activities, resulted in avoiding compliance issues for the company. This gave me a lot of new insights & great learning opportuinities. I always focus on being invaluable asset for the companies I have worked with.
 
