@@ -1,0 +1,18 @@
+name: Date Differences
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Taucher2003/date-difference-action@master
+        env:
+          1: "2021-06-04"
+        with:
+          COMMIT_MESSAGE: "⏰ Updated time differences" 
