@@ -1,22 +1,22 @@
 
 
-<!-- ## <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  Hello, there... -->
-## <img src="https://i.imgur.com/x8XclAA.gif" width="60" />  Hello, there...
+## <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  About me...
 
-<!-- <img align="right" src="https://i.imgur.com/x8XclAA.gif" width="180" /> -->
+<img align="right" src="https://i.imgur.com/x8XclAA.gif" width="180" />
 
 I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--timespan:start(%d)(2015-06-01)-->**_7_+**<!--timespan:end(%d)(2015-06-05)--> **_years_** experience, with a sound grip on **_iOS/tvOS_** technologies which help me manifest ideas into functional and reliable mobile apps.
 
 Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com) team as a **_Senior Software Engineer_** to help them on simplyfying lives through digital transformations. I have been part of 2 Major projects, including Discovery's OTT platform and Govt's Income tax mobile apps for the goverment. I utilise my knowledge  & skill-set in versatile ways to deliver values. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules in my OTT project. I've succesfully tackled time-sensitive high-priority tasks by collaborating with various stackholders precisely, along with my software development activities, resulted in avoiding compliance issues for the company. This gave me a lot of new insights & great learning opportuinities. I always focus on being invaluable asset for the companies I have worked with.
 
 As a developer, I am...
-- Passionate about my works, individual as well as team player, eager to manage team too
+- Passionate about my career, 
+- Individual contributor as well as team player, eager to manage team too
 - Self leaner, also quick learner, I always observe & learn from my experiences
 - Self directed
 - Detail oriented
 
 
-Currently, I am learning and extending my skills for...
+Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learning and extending my skills for...
 - Learning SwiftUI
 - Learning and exploring Artifical intelligence and Machine Learning
 - Exploring Cross platform Flutter, On top of Android Java knowledge
@@ -38,7 +38,7 @@ Currently, I am learning and extending my skills for...
 
 Outside the planetary of technologies and digital system, I enjoy pushing myself to develop new skills. My hobbies range from <img src="https://i.imgur.com/gDvk7LG.gif" width="25" /> Writing Poems, and touch tying to some whacky/creative ones like writing with my left hand, dressing up etc. Keep trying new expressions and good deeds.
 
-I am also a <img src="https://i.imgur.com/NbQ8aBb.gif" width="25" /> health enthusiat, love doing <img src="https://i.imgur.com/hcvXLSp.gif" width="25" /> walking and <img src="https://i.imgur.com/JJiFmWD.gif" width="25" /> meditations. 
+I am also a <img src="https://i.imgur.com/vEduRau.gif" width="25" /> health enthusiat, love doing <img src="https://i.imgur.com/hcvXLSp.gif" width="25" /> walking and <img src="https://i.imgur.com/JJiFmWD.gif" width="25" /> meditations. 
 
 I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading books on personal development & financial literacy. My favorite ones are The Monk who sold his ferrari by Robin Sharma, Alchemist by Paulo Coelho in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
