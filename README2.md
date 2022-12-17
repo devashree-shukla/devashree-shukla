@@ -127,14 +127,23 @@ swcurity related  -->
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ShuklaDevashree963&row=1&column=6&margin-h=8&theme=gruvbox&count_private=true&margin-w=15" alt="Devashree's Github Profile Trophies" />
   </div>
-    <br />
+   </br>
+   </br>
+   GitHub Stats :
+   </br>
     </br>
-    GitHub Stats :
-    <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShuklaDevashree963&show_icons=true&theme=github_dark" alt="Devashree's GitHub Stats">
-  </br>
+   <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ShuklaDevashree963&show_icons=true&theme=github_dark" alt="Devashree's GitHub Stats">
+      </br>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=ShuklaDevashree963.ShuklaDevashree963" alt="Devashree's GitHub Visitors">
-
+  </div>  
+  </br>
+  </br>
+  Languages used :
+  </br>
+  </br>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDevashree963&langs_count=10&theme=github_dark" alt="Devashree's GitHub Top Languages used">
   </div>  
   </br>
 </div>
@@ -156,4 +165,6 @@ swcurity related  -->
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oatza_1/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/devashri_iosdev)
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/aFlR16NXozWQ)
+
+
 
