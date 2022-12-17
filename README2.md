@@ -100,6 +100,8 @@ Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com)
 
 #### - Workspace Setup
 
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 #### - Resume
 
 #### Websites I follow  -->
@@ -115,12 +117,43 @@ swcurity related  -->
 
 <!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani) -->
 
-### Connect with me:
 
-[![Email](https://i.imgur.com/LvzAalc.png)](mail:shukladevashree963@gmail.com)
-[![Linkedin](https://i.imgur.com/O8ONzW7.png)](https://www.linkedin.com/in/devashree-shukla/)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-[![Leetcode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/DevashreeShukla/)
+## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Stats : 
+
+<div align="left">
+  Github Profile Trophies :
+  </br>
+  </br>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShuklaDevashree963&row=1&column=6&margin-h=8&theme=gruvbox&count_private=true&margin-w=15" alt="Devashree's Github Profile Trophies" />
+  </div>
+    <br />
+    </br>
+    GitHub Stats :
+    <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShuklaDevashree963&show_icons=true&theme=github_dark" alt="Devashree's GitHub Stats">
+  </br>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=ShuklaDevashree963.ShuklaDevashree963" alt="Devashree's GitHub Visitors">
+
+  </div>  
+  </br>
+</div>
+
+## <img src="https://i.imgur.com/YBAIdQC.gif" width="45" /> Connect with me:
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shukladevashree963@gmail.com)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devashree-shukla/)
 
 
-![Devashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuklaDevashree963&show_icons=true&theme=buefy)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ShuklaDevashree963)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://devashree-shukla.medium.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/DevashreeShukla/)
+
+<!-- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e) -->
+<!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/) -->
+
+[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://goodreads.com/devashree-shukla)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oatza_1/)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)(https://twitter.com/devashri_iosdev)
+![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)(https://join.skype.com/invite/aFlR16NXozWQ)
+
