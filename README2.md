@@ -8,13 +8,8 @@ I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--tim
 
 Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com) team as a **_Senior Software Engineer_** to help them on simplyfying lives through digital transformations. I have been part of 2 Major projects, including Discovery's OTT platform and Govt's Income tax mobile apps for the goverment. I utilise my knowledge  & skill-set in versatile ways to deliver values. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules in my OTT project. I've succesfully tackled time-sensitive high-priority tasks by collaborating with various stackholders precisely, along with my software development activities, resulted in avoiding compliance issues for the company. This gave me a lot of new insights & great learning opportuinities. I always focus on being invaluable asset for the companies I have worked with.
 
-As a developer, I am...
-- Passionate about my career, 
-- Individual contributor as well as team player, eager to manage team too
-- Self leaner, also quick learner, I always observe & learn from my experiences
-- Self directed
-- Detail oriented
 
+## Technical Skills 
 
 Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learning and extending my skills for...
 - Learning SwiftUI
@@ -24,29 +19,6 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 - Improving on leadership skills 
 - Improving on Architectural fundamentals for any apps
 - On way to start Blogging to extend my help towards fellow developers and share experiences
-
-
-
-
-<!-- sw ethics, leader ethis  -->
-
-
-<!-- travelleling/books/wrinting/hobbies  -->
-<!-- In my free time, I try to learn new stuffs.  -->
-<!-- Reading , Writing poems, Traveling, Exploring & learning things, Meditation -->
-
-
-Outside the planetary of technologies and digital system, I enjoy pushing myself to develop new skills. My hobbies range from <img src="https://i.imgur.com/gDvk7LG.gif" width="25" /> Writing Poems, and touch tying to some whacky/creative ones like writing with my left hand, dressing up etc. Keep trying new expressions and good deeds.
-
-I am also a <img src="https://i.imgur.com/vEduRau.gif" width="25" /> health enthusiat, love doing <img src="https://i.imgur.com/hcvXLSp.gif" width="25" /> walking and <img src="https://i.imgur.com/JJiFmWD.gif" width="25" /> meditations. 
-
-I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading books on personal development & financial literacy. My favorite ones are The Monk who sold his ferrari by Robin Sharma, Alchemist by Paulo Coelho in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
-
-I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backpacking and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Karnataka in 2017-2018, Kerala in 2019, Gwalior in 2021, Mumbai in 2022 etc and a lot more to go !!
-
-
-
-## My Complete Tech Stack:
 <!-- - 🤖 &nbsp; I am also I, OOPS, Agile, Best coding skills, Protocols, MVVM-C, VIPER, TDD etc -->
   
 #### - Mobile App Development
@@ -117,6 +89,14 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 #### - Extra Tools
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
+
+## <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  Core Competencies 
+As a developer, I am...
+- Passionate about my career, 
+- Individual contributor as well as team player, eager to manage team too
+- Self leaner, also quick learner, I always observe & learn from my experiences
+- Self directed
+- Detail oriented
 <!-- #### - Prtoject domains
 
 #### - Workspace Setup
@@ -132,6 +112,13 @@ swcurity related  -->
 
 <!-- #### RSS link -->
 
+<!-- sw ethics, leader ethis  -->
+
+
+<!-- travelleling/books/wrinting/hobbies  -->
+<!-- In my free time, I try to learn new stuffs.  -->
+<!-- Reading , Writing poems, Traveling, Exploring & learning things, Meditation -->
+
 #### - Blogs 
 
 <!-- ### Resume: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf) -->
@@ -139,7 +126,7 @@ swcurity related  -->
 <!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani) -->
 
 
-## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Stats : 
+## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Stats 
 
 <div align="left">
    Github Profile Trophies :
@@ -172,7 +159,18 @@ swcurity related  -->
 </div>
 
 
-## <img src="https://i.imgur.com/YBAIdQC.gif" width="45" /> Connect with me:
+## <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  Hobbies
+
+Outside the planetary of technologies and digital system, I enjoy pushing myself to develop new skills. My hobbies range from <img src="https://i.imgur.com/gDvk7LG.gif" width="25" /> Writing Poems, and touch tying to some whacky/creative ones like writing with my left hand, dressing up etc. Keep trying new expressions and good deeds.
+
+I am also a <img src="https://i.imgur.com/vEduRau.gif" width="25" /> health enthusiat, love doing <img src="https://i.imgur.com/hcvXLSp.gif" width="25" /> walking and <img src="https://i.imgur.com/JJiFmWD.gif" width="25" /> meditations. 
+
+I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading books on personal development & financial literacy. My favorite ones are The Monk who sold his ferrari by Robin Sharma, Alchemist by Paulo Coelho in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
+
+I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backpacking and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Karnataka in 2017-2018, Kerala in 2019, Gwalior in 2021, Mumbai in 2022 etc and a lot more to go !!
+
+
+## <img src="https://i.imgur.com/YBAIdQC.gif" width="45" /> Connect with me 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shukladevashree963@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devashree-shukla/)
