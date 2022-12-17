@@ -2,29 +2,47 @@
 
 ## <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  Hello, there...
 
-<img align="right" alt="PC GIF" src="https://i.imgur.com/x8XclAA.gif" width="250" />
+<img align="right" src="https://i.imgur.com/x8XclAA.gif" width="150" />
 
-I am Devashree Shukla, an versatile Apple developer, I posses <!--timespan:start(%d)(2015-06-01)--><!--timespan:end(%d)(2015-06-05)--> years experience, with a sound grip on iOS/tvOS technologies which help me manifest ideas into functional and reliable mobile apps.
+I am **_Devashree Shukla_**, **_a versatile Apple develope_r**, I posses <!--timespan:start(%d)(2015-06-01)-->**_7_+**<!--timespan:end(%d)(2015-06-05)--> **_years_** experience, with a sound grip on **iOS/tvOS** technologies which help me manifest ideas into functional and reliable mobile apps.
 
-Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com) team to help them on simplyfying lives through digital transformations. I have been part of 2 Major projects, including Discovery's OTT platform and Govt's Income tax mobile apps for the goverment. I utilise my knowledge  & skill-set in versatile ways to deliver values. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules in my OTT project. I've succesfully tackled time-sensitive high-priority tasks by collaborating with various stackholders precisely, along with my software development activities, resulted in avoiding compliance issues for the company. This gave me a lot of new insights & great learning opportuinities. I always focus on being invaluable asset for the companies I have worked with.
+Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com) team as a **_Senior Software Engineer_** to help them on simplyfying lives through digital transformations. I have been part of 2 Major projects, including Discovery's OTT platform and Govt's Income tax mobile apps for the goverment. I utilise my knowledge  & skill-set in versatile ways to deliver values. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules in my OTT project. I've succesfully tackled time-sensitive high-priority tasks by collaborating with various stackholders precisely, along with my software development activities, resulted in avoiding compliance issues for the company. This gave me a lot of new insights & great learning opportuinities. I always focus on being invaluable asset for the companies I have worked with.
+
+As a developer, I am...
+- Passionate about my works, individual as well as team player, eager to manage team too
+- Self leaner, also quick learner, I always observe & learn from my experiences
+- Self directed
+- Detail oriented
 
 
-<!-- Currently what i am learning ... -->
-<!-- - 🤖 &nbsp; I’m currently learning **Machine Learning & Cross platform Flutter** -->
-<!-- practising Data structures, Algorithms, SwiftU -->
-<!-- - 🤖 &nbsp; Improving leadership skills & architectural fundamentals for any apps -->
-<!-- - 🤖 &nbsp; I am looking to help fellow developers to learn and master Swift skills if they need -->
+Currently, I am learning and extending my skills for...
+- Learning SwiftUI
+- Learning and exploring Artifical intelligence and Machine Learning
+- Exploring Cross platform Flutter, On top of Android Java knowledge
+- Improving on Data structures and Algorithms
+- Improving on leadership skills 
+- Improving on Architectural fundamentals for any apps
+- On way to start Blogging to extend my help towards fellow developers and share experiences
 
 
-<!-- How I am as person -->
-<!--   My collegues and managers tell me I am passionate, self learner, self Directed, detail oriented, hard working. -->
-<!-- quick learner -->
+
+
+<!-- sw ethics, leader ethis  -->
 
 
 <!-- travelleling/books/wrinting/hobbies  -->
 <!-- In my free time, I try to learn new stuffs.  -->
+<!-- Reading , Writing poems, Traveling, Exploring & learning things, Meditation -->
 
-<!-- sw ethics, leader ethis  -->
+
+Outside the planetary of technologies and digital system, I enjoy pushing myself to develop new skills. My hobbies range from <img src="https://i.imgur.com/gDvk7LG.gif" width="25" /> Writing Poems, and touch tying to some whacky/creative ones like writing with my left hand, dressing up etc. Keep trying new expressions and good deeds.
+
+I am also a <img src="https://i.imgur.com/NbQ8aBb.gif" width="25" /> health enthusiat, love doing <img src="https://i.imgur.com/hcvXLSp.gif" width="25" /> walking and <img src="https://i.imgur.com/JJiFmWD.gif" width="25" /> meditations. 
+
+📚 I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading books on personal development & financial literacy. My favorite ones are The Monk who sold his ferrari, Alchemist in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
+
+✈️ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Karnataka in 2017-2018, Kerala in 2019, Gwalior in 2021, Mumbai in 2022 etc and a lot more to go !!
+
 
 
 ## My Complete Tech Stack:
@@ -160,7 +178,7 @@ swcurity related  -->
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://devashree-shukla.medium.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/DevashreeShukla/)
 
-<!-- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e) -->
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link)
 <!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/) -->
 
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://goodreads.com/devashree-shukla)
