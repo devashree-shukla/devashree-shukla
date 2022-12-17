@@ -42,7 +42,7 @@ I am also a <img src="https://i.imgur.com/vEduRau.gif" width="25" /> health enth
 
 I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading books on personal development & financial literacy. My favorite ones are The Monk who sold his ferrari by Robin Sharma, Alchemist by Paulo Coelho in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
-I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Karnataka in 2017-2018, Kerala in 2019, Gwalior in 2021, Mumbai in 2022 etc and a lot more to go !!
+I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backpacking and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Karnataka in 2017-2018, Kerala in 2019, Gwalior in 2021, Mumbai in 2022 etc and a lot more to go !!
 
 
 
@@ -142,32 +142,35 @@ swcurity related  -->
 ## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Stats : 
 
 <div align="left">
-  Github Profile Trophies :
-  </br>
-  </br>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShuklaDevashree963&row=1&column=6&margin-h=8&theme=gruvbox&count_private=true&margin-w=15" alt="Devashree's Github Profile Trophies" />
-  </div>
+   Github Profile Trophies :
    </br>
    </br>
-   GitHub Stats :
-   </br>
-    </br>
    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ShuklaDevashree963&show_icons=true&theme=github_dark" alt="Devashree's GitHub Stats">
+      <img src="https://github-profile-trophy.vercel.app/?username=ShuklaDevashree963&row=1&column=6&margin-h=8&theme=gruvbox&count_private=true&margin-w=15" alt="Devashree's Github Profile Trophies" />
+   </div>
+  
+  </br>
+   </br>
+   
+   <div align="left">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShuklaDevashree963&show_icons=true&theme=github_dark" alt="Devashree's GitHub Stats">
       </br>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDevashree963&langs_count=10&theme=github_dark" alt="Devashree's GitHub Top Languages used">
+      </br>
+   </div>
+   </br>
+   </br>
+   </br>
+   <div>
+<!--       </br> -->
       <img src="https://visitor-badge.laobi.icu/badge?page_id=ShuklaDevashree963.ShuklaDevashree963" alt="Devashree's GitHub Visitors">
-  </div>  
-  </br>
-  </br>
-  Languages used :
-  </br>
-  </br>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDevashree963&langs_count=10&theme=github_dark" alt="Devashree's GitHub Top Languages used">
-  </div>  
-  </br>
+      <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDevashree963&langs_count=10&theme=github_dark" alt="Devashree's GitHub Top Languages used"> -->
+   </div>
+   </br>
+   </br>
+   </br>
 </div>
+
 
 ## <img src="https://i.imgur.com/YBAIdQC.gif" width="45" /> Connect with me:
 
