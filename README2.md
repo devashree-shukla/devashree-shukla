@@ -1,5 +1,3 @@
-
-
 ## <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  About me...
 
 <img align="right" src="https://i.imgur.com/x8XclAA.gif" width="180" />
@@ -23,7 +21,19 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   
 #### - Mobile App Development
 
-  ![Swift](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  Primary: 
+  
+  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+  
+  Secondarily I can work with :
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  
   
 
 #### - Database Systems
@@ -119,7 +129,7 @@ swcurity related  -->
 <!-- In my free time, I try to learn new stuffs.  -->
 <!-- Reading , Writing poems, Traveling, Exploring & learning things, Meditation -->
 
-#### - Blogs 
+<!-- #### - Blogs  -->
 
 <!-- ### Resume: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf) -->
 
@@ -129,14 +139,14 @@ swcurity related  -->
 ## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Stats 
 
 <div align="left">
-   Github Profile Trophies :
-   </br>
-   </br>
-   <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=ShuklaDevashree963&row=1&column=6&margin-h=8&theme=gruvbox&count_private=true&margin-w=15" alt="Devashree's Github Profile Trophies" />
-   </div>
-  
+   
+  Github Profile Trophies :
   </br>
+  <div align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=ShuklaDevashree963&row=1&column=6&margin-h=8&theme=gruvbox&count_private=true&margin-w=15" alt="Devashree's Github Profile Trophies" />
+  </div>
+   
+   </br>
    </br>
    
    <div align="left">
@@ -145,17 +155,19 @@ swcurity related  -->
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDevashree963&langs_count=10&theme=github_dark" alt="Devashree's GitHub Top Languages used">
       </br>
    </div>
+   
    </br>
    </br>
    </br>
+   
    <div>
-<!--       </br> -->
       <img src="https://visitor-badge.laobi.icu/badge?page_id=ShuklaDevashree963.ShuklaDevashree963" alt="Devashree's GitHub Visitors">
-      <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDevashree963&langs_count=10&theme=github_dark" alt="Devashree's GitHub Top Languages used"> -->
    </div>
+   
    </br>
    </br>
    </br>
+   
 </div>
 
 
