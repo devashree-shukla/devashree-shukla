@@ -4,10 +4,10 @@
 
 <img align="right" alt="PC GIF" src="https://i.imgur.com/x8XclAA.gif" width="250" />
 
-I am Devashree Shukla, an aspirant Apple developer, posses <!--timespan:start(%d)(2015-06-01)--><!--timespan:end(%d)(2015-06-05)--> years experience, with a sound grip on iOS/tvOS technologies which help me manifest ideas into functional and reliable mobile apps.
+I am Devashree Shukla, an versatile Apple developer, I posses <!--timespan:start(%d)(2015-06-01)--><!--timespan:end(%d)(2015-06-05)--> years experience, with a sound grip on iOS/tvOS technologies which help me manifest ideas into functional and reliable mobile apps.
 
-Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com) team to help them on simplyfying lives through digital transformations. I have been part of various projects, including discovery OTT platform and income tax related mobile apps for the goverment. I've utilised my skill-set in versatile ways to deliver value to the vision and mission of each project i've been part of at robosoft. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules of Discovery OOT platform project. I've succesfully tackled with handling time-sensitive high-priority tasks by collaborating with various stackholders and product team to deliver value.  
-<!-- (with a great learning opportunities) -->
+Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com) team to help them on simplyfying lives through digital transformations. I have been part of 2 Major projects, including Discovery's OTT platform and Govt's Income tax mobile apps for the goverment. I utilise my knowledge  & skill-set in versatile ways to deliver values. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules in my OTT project. I've succesfully tackled time-sensitive high-priority tasks by collaborating with various stackholders precisely, along with my software development activities, resulted in avoiding compliance issues for the company. This gave me a lot of new insights & great learning opportuinities. I always focus on being invaluable asset for the companies I have worked with.
+
 
 <!-- Currently what i am learning ... -->
 <!-- - 🤖 &nbsp; I’m currently learning **Machine Learning & Cross platform Flutter** -->
@@ -18,11 +18,13 @@ Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com)
 
 <!-- How I am as person -->
 <!--   My collegues and managers tell me I am passionate, self learner, self Directed, detail oriented, hard working. -->
-
+<!-- quick learner -->
 
 
 <!-- travelleling/books/wrinting/hobbies  -->
 <!-- In my free time, I try to learn new stuffs.  -->
+
+<!-- sw ethics, leader ethis  -->
 
 
 ## My Complete Tech Stack:
