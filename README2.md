@@ -1,8 +1,10 @@
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />  Hey, I'm Devashree Shukla.
+## <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  Hello, there...
 
-I'm an tech-enthusiast with a sound grip on Apple technologies which help me manifest ideas into functional and reliable mobile apps.
+<img align="right" alt="PC GIF" src="https://i.imgur.com/x8XclAA.gif" width="250" />
+
+I am Devashree Shukla, an aspirant Apple developer, with a sound grip on iOS/tvOS technologies which help me manifest ideas into functional and reliable mobile apps.
 
 In my free time, I try to learn new stuffs. My collegues and managers tell me I am passionate, self learner, self Directed, detail oriented, hard working.
 
