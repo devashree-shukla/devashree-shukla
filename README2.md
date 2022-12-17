@@ -6,31 +6,32 @@
 
 I am Devashree Shukla, an aspirant Apple developer, with a sound grip on iOS/tvOS technologies which help me manifest ideas into functional and reliable mobile apps.
 
-Currently, I am working with ![Robosoft Technologies](https://www.robosoftin.com) team to help them on simplyfying lives through digital transformations. I have been part of various projects, including discovery OTT platform and income tax related mobile apps for the goverment. I've utilised my skill-set in versatile ways to deliver value to the vision and mission of each project i've been part of at robosoft. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules of Discovery OOT platform project. I've succesfully tackled with handling time-sensitive high-priority tasks by collaborating with various stackholders and product team to deliver value. 
+Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com) team to help them on simplyfying lives through digital transformations. I have been part of various projects, including discovery OTT platform and income tax related mobile apps for the goverment. I've utilised my skill-set in versatile ways to deliver value to the vision and mission of each project i've been part of at robosoft. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules of Discovery OOT platform project. I've succesfully tackled with handling time-sensitive high-priority tasks by collaborating with various stackholders and product team to deliver value.  
+<!-- (with a great learning opportunities) -->
+
+<!-- Currently what i am learning ... -->
+<!-- - 🤖 &nbsp; I’m currently learning **Machine Learning & Cross platform Flutter** -->
+<!-- practising Data structures, Algorithms, SwiftU -->
+<!-- - 🤖 &nbsp; Improving leadership skills & architectural fundamentals for any apps -->
+<!-- - 🤖 &nbsp; I am looking to help fellow developers to learn and master Swift skills if they need -->
+
+
+<!-- How I am as person -->
+<!--   My collegues and managers tell me I am passionate, self learner, self Directed, detail oriented, hard working. -->
 
 
 
-In my free time, I try to learn new stuffs. My collegues and managers tell me I am passionate, self learner, self Directed, detail oriented, hard working.
+<!-- travelleling/books/wrinting/hobbies  -->
+<!-- In my free time, I try to learn new stuffs.  -->
 
-
-- 🤖 &nbsp; I’m currently learning **Machine Learning & Cross platform Flutter**
-- 🤖 &nbsp; I am currently working on a OTT platform iOS/tvOS app for a wellknown client and with a huge team with a great learning opportunities
-- 🤖 &nbsp; I am also practising Data structures, Algorithms, SwiftUI, OOPS, Agile, Best coding skills, Protocols, MVVM-C, VIPER, TDD etc
-- 🤖 &nbsp; Improving leadership skills & architectural fundamentals for any apps
-- 🤖 &nbsp; I am looking to help fellow developers to learn and master Swift skills if they need
 
 ## My Complete Tech Stack:
-
+<!-- - 🤖 &nbsp; I am also I, OOPS, Agile, Best coding skills, Protocols, MVVM-C, VIPER, TDD etc -->
   
 #### - Mobile App Development
 
   ![Swift](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   
-
-  
- 
-  
- 
 
 #### - Database Systems
   
