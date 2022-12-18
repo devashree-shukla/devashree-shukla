@@ -67,7 +67,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-  Zeplin
+  ![Zeplin](https://aleen42.github.io/badges/src/zeplin.svg)
   
   
 
@@ -132,22 +132,23 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 
 ## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Core Competencies 
   As a developer, I am...
-    > - Passionate about my career
-    > - Individual contributor as well as team player, eager to manage team too
-    > - Self leaner, also quick learner, I always observe & learn from my experiences
-    > - Self driven, self motivated
-    > - Detail oriented
+> - Passionate about my career
+> - Individual contributor as well as team player, eager to manage team too
+> - Self leaner, also quick learner, I always observe & learn from my experiences
+> - Self driven, self motivated
+> - Detail oriented
 
 
 
 ## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Workspace Setup
 
-![Apple iPhone](https://img.shields.io/badge/Apple-iPhone_11.x%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Apple iPhone](https://img.shields.io/badge/Apple-iPhone.x%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Apple Macbook Air](https://img.shields.io/badge/Apple-MacBook_Air_M2_13_INCH_2022-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Apple Macbook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_INTEL_I9_16_INCH_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
 
-
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
@@ -259,12 +260,16 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/aFlR16NXozWQ)
 
 
+https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg
+
+
  <!--   #### Testing  -->
 <!-- Unit testing, XCUITest --> 
 
 <!-- - 🤖 &nbsp; I am also I, OOPS, Agile, Best coding skills, Protocols, MVVM-C, VIPER, TDD etc -->
   
-<!-- #### - Servers -->
+<!-- #### - Servers --> 
+<!-- expressvpn, proton vpn -->
 
 <!-- #### - Prtoject domains
 
