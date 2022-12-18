@@ -1,6 +1,6 @@
-# <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  About me...
+# <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  About me
 
-<img align="right" src="https://i.imgur.com/x8XclAA.gif" width="200" />
+<img align="right" src="https://i.imgur.com/x8XclAA.gif" width="250" />
 
 I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--timespan:start(%d)(2015-06-01)-->**_7_+**<!--timespan:end(%d)(2015-06-05)--> **_years_** experience, with a sound grip on **_iOS/tvOS_** technologies which help me manifest ideas into functional and reliable mobile apps.
 
@@ -156,7 +156,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
-
+<!-- Add photo -->
 
 
 
@@ -168,12 +168,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   </br>
   <div align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=ShuklaDevashree963&row=1&column=6&margin-h=8&theme=gruvbox&count_private=true&margin-w=15" alt="Devashree's Github Profile Trophies" />
-  </div>
-   
-   </br>
-   </br>
-   
-   <div align="center">
+     </br>
+     </br>
       <img src="https://github-readme-stats.vercel.app/api?username=ShuklaDevashree963&show_icons=true&theme=github_dark" alt="Devashree's GitHub Stats">
       </br>
       </br>
@@ -190,19 +186,9 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
       </br>
       </br>
    </div>
-   
    </br>
    </br>
    </br>
-   
-   <div>
-      
-   </div>
-   
-   </br>
-   </br>
-   </br>
-   
 </div>
 
 
@@ -264,7 +250,8 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/aFlR16NXozWQ)
 
 
-https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg
+#
+![MadeWithMarkDown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 
  <!--   #### Testing  -->
