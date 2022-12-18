@@ -204,19 +204,19 @@ Linked in learning
 
 ## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> My Daily Reads:
 
-- [Apple Newsroom](https://www.apple.com/newsroom/) - Apple newsRoom
-- [Swift](https://docs.swift.org/swift-book/) - All about Swift 
-- [Apple Tech](https://developer.apple.com/documentation/technologies) - All about apple technologies
-- [Github Trends](https://github.com/trending/) - Daily, weekly and monthly trending repos on github
-- [Hacker News](https://news.ycombinator.com/) - Top trending tech news of the day
-- [Ben's Bites](https://www.bensbites.co) - Top trending news of AI
-- [TechontheEdge](https://www.techontheedge.com/) - Staying updated with everything related to AI, ML and NLP
-- [Volv](https://volvapp.page.link/BSQ4) - News of the day
-- [Lobsters](https://lobste.rs/) - To Find Geekish articles catching eyes of the nerds!
-- [TechURLS](https://techurls.com/) - Aggregator site for all popular tech news sources
-- [DevURLS](https://devurls.com/) - Aggregator site for all popular Developer news sources
-- [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
-- [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
+> - [Apple Newsroom](https://www.apple.com/newsroom/) - Apple newsRoom
+> - [Swift](https://docs.swift.org/swift-book/) - All about Swift 
+> - [Apple Tech](https://developer.apple.com/documentation/technologies) - All about apple technologies
+> - [Github Trends](https://github.com/trending/) - Daily, weekly and monthly trending repos on github
+> - [Hacker News](https://news.ycombinator.com/) - Top trending tech news of the day
+> - [Ben's Bites](https://www.bensbites.co) - Top trending news of AI
+> - [TechontheEdge](https://www.techontheedge.com/) - Staying updated with everything related to AI, ML and NLP
+> - [Volv](https://volvapp.page.link/BSQ4) - News of the day
+> - [Lobsters](https://lobste.rs/) - To Find Geekish articles catching eyes of the nerds!
+> - [TechURLS](https://techurls.com/) - Aggregator site for all popular tech news sources
+> - [DevURLS](https://devurls.com/) - Aggregator site for all popular Developer news sources
+> - [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
+> - [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
 
 
 
@@ -274,3 +274,5 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 
 
 <!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani) -->
+
+<!-- Certificates / appreciations -->
