@@ -141,10 +141,14 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 
 
 ## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Workspace Setup
+
 ![Apple](https://img.shields.io/badge/Apple_iPhone_11-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+
 ![Apple Macbook Air](https://img.shields.io/badge/Apple-MacBook_Air_M2_13_INCH_2022-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Apple Macbook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_INTEL_I9_16_INCH_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
+
 ![Xcode](https://img.shields.io/badge/Xcode-14-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
 ![macOS](https://img.shields.io/badge/mac%20os_13.0.1-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS_16.4-000000?style=for-the-badge&logo=ios&logoColor=white)
 
