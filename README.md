@@ -179,22 +179,22 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   Github Profile Trophies :
   </br>
   <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=ShuklaDevashree963&row=1&column=6&margin-h=8&theme=gruvbox&count_private=true&margin-w=15" alt="Devashree's Github Profile Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=devashree-shukla&row=1&column=6&margin-h=8&theme=gruvbox&count_private=true&margin-w=15" alt="Devashree's Github Profile Trophies" />
      </br>
      </br>
-      <img src="https://github-readme-stats.vercel.app/api?username=ShuklaDevashree963&show_icons=true&theme=github_dark" alt="Devashree's GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=devashree-shukla&show_icons=true&theme=github_dark" alt="Devashree's GitHub Stats">
       </br>
       </br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDevashree963&langs_count=10&theme=github_dark" alt="Devashree's GitHub Top Languages used">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashree-shukla&langs_count=10&theme=github_dark" alt="Devashree's GitHub Top Languages used">
       </br>
       </br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShuklaDevashree963&theme=github_dark" alt="Devashree's GitHub Profile Summary">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devashree-shukla&theme=github_dark" alt="Devashree's GitHub Profile Summary">
       </br>
       </br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuklaDevashree963&theme=blue-green" alt="Devashree's Streaks">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devashree-shukla&theme=blue-green" alt="Devashree's Streaks">
       </br>
       </br>
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=ShuklaDevashree963.ShuklaDevashree963" alt="Devashree's GitHub Visitors">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=devashree-shukla.devashree-shukla" alt="Devashree's GitHub Visitors">
       </br>
       </br>
    </div>
@@ -263,7 +263,7 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devashree-shukla/)
 
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ShuklaDevashree963)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/devashree-shukla)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://devashree-shukla.medium.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/DevashreeShukla/)
 
