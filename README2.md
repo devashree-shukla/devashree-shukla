@@ -196,9 +196,20 @@ swcurity related  -->
    </br>
    
    <div align="left">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShuklaDevashree963&show_icons=true&theme=github_dark" alt="Devashree's GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=ShuklaDevashree963&show_icons=true&theme=github_dark" alt="Devashree's GitHub Stats">
       </br>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDevashree963&langs_count=10&theme=github_dark" alt="Devashree's GitHub Top Languages used">
+      </br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaDevashree963&langs_count=10&theme=github_dark" alt="Devashree's GitHub Top Languages used">
+      </br>
+      </br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShuklaDevashree963&theme=github_dark" alt="Devashree's GitHub Profile Summary">
+      </br>
+      </br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuklaDevashree963&theme=github_dark" alt="Devashree's Streaks">
+      </br>
+      </br>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=ShuklaDevashree963.ShuklaDevashree963" alt="Devashree's GitHub Visitors">
+      </br>
       </br>
    </div>
    
@@ -207,7 +218,7 @@ swcurity related  -->
    </br>
    
    <div>
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=ShuklaDevashree963.ShuklaDevashree963" alt="Devashree's GitHub Visitors">
+      
    </div>
    
    </br>
