@@ -157,6 +157,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   
 <details><summary>More</summary>
 <p>
+  
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
@@ -164,6 +165,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
 <!-- Add photo -->
+  
 </p>
 </details>
 
@@ -173,6 +175,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 <div align="left">
   <details><summary>More</summary>
   <p>
+    
   Github Profile Trophies :
   </br>
   <div align="center">
@@ -198,6 +201,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
    </br>
    </br>
    </br>
+   
    </p>
   </details>
 </div>
@@ -221,14 +225,17 @@ Linked in learning
 > - [Hacker News](https://news.ycombinator.com/) - Top trending tech news of the day
 > - [Ben's Bites](https://www.bensbites.co) - Top trending news of AI
 > - [TechontheEdge](https://www.techontheedge.com/) - Staying updated with everything related to AI, ML and NLP
+
 <details><summary>More</summary>
 <p>
+  
 > - [Volv](https://volvapp.page.link/BSQ4) - News of the day
 > - [Lobsters](https://lobste.rs/) - To Find Geekish articles catching eyes of the nerds!
 > - [TechURLS](https://techurls.com/) - Aggregator site for all popular tech news sources
 > - [DevURLS](https://devurls.com/) - Aggregator site for all popular Developer news sources
 > - [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
 > - [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
+  
 </p>
 </details>
 
@@ -237,6 +244,7 @@ Linked in learning
 
 <details><summary>More</summary>
 <p>
+  
 Outside the planetary of technologies and digital system, I enjoy pushing myself to develop new skills. My hobbies range from <img src="https://i.imgur.com/gDvk7LG.gif" width="25" /> Writing Poems, and touch tying to some whacky/creative ones like writing with my left hand, dressing up etc. Keep trying new expressions and good deeds.
 
 I am also a <img src="https://i.imgur.com/vEduRau.gif" width="25" /> health enthusiat, love doing <img src="https://i.imgur.com/hcvXLSp.gif" width="25" /> walking and <img src="https://i.imgur.com/JJiFmWD.gif" width="25" /> meditations. I love ![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)
@@ -244,6 +252,7 @@ I am also a <img src="https://i.imgur.com/vEduRau.gif" width="25" /> health enth
 I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading books on personal development & financial literacy. My favorite ones are The Monk who sold his ferrari by Robin Sharma, Alchemist by Paulo Coelho in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
 I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backpacking and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Mumbai in 2022, Gwalior in 2021, Kerala in 2019, Karnataka in 2017-2018, Goa in 2015 etc and a lot more to go !!
+  
 </p>
 </details>
 
