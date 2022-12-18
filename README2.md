@@ -16,7 +16,7 @@ Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com)
 
 
 
-Download detailed [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link) from here
+Download detailed  [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link)  from here
 
 
 
@@ -136,6 +136,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   
 <!-- #### - Servers -->
 
+
+
 ## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Core Competencies 
 As a developer, I am...
 - Passionate about my career
@@ -216,7 +218,7 @@ swcurity related  -->
 
 
 
-#### <img src="https://i.imgur.com/S6FxPht.gif" width="45" /> Learning tools
+## <img src="https://i.imgur.com/S6FxPht.gif" width="45" /> Learning tools
 
 Linked in learning
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
@@ -224,7 +226,7 @@ Linked in learning
 
 
 
-## My Daily Reads:
+## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> My Daily Reads:
 
 - [Apple Newsroom](https://www.apple.com/newsroom/) - Apple newsRoom
 - [Swift](https://docs.swift.org/swift-book/) - All about Swift 
