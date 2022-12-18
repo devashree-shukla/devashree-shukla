@@ -126,31 +126,24 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
+    ![Charlse](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
   
-  
-  <!--   #### Testing  -->
-<!-- Unit testing, XCUITest --> 
-
-<!-- - 🤖 &nbsp; I am also I, OOPS, Agile, Best coding skills, Protocols, MVVM-C, VIPER, TDD etc -->
-  
-<!-- #### - Servers -->
-
-
 
 ## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Core Competencies 
-As a developer, I am...
-- Passionate about my career
-- Individual contributor as well as team player, eager to manage team too
-- Self leaner, also quick learner, I always observe & learn from my experiences
-- Self driven, self motivated
-- Detail oriented
+  As a developer, I am...
+    > - Passionate about my career
+    > - Individual contributor as well as team player, eager to manage team too
+    > - Self leaner, also quick learner, I always observe & learn from my experiences
+    > - Self driven, self motivated
+    > - Detail oriented
 
 
 
-<!-- #### - Prtoject domains
+## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Workspace Setup
 
-#### - Workspace Setup
+![Apple iPhone](https://img.shields.io/badge/Apple-iPhone_11.x%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+
 
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
@@ -160,26 +153,6 @@ As a developer, I am...
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
 
 
-
-#### Websites I follow  -->
-<!-- swift
-swcurity related  -->
-<!-- AI related  -->
-
-<!-- #### RSS link ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white) --> 
-
-<!-- sw ethics, leader ethis  -->
-
-
-<!-- travelleling/books/wrinting/hobbies  -->
-<!-- In my free time, I try to learn new stuffs.  -->
-<!-- Reading , Writing poems, Traveling, Exploring & learning things, Meditation -->
-
-<!-- #### - Blogs  -->
-
-<!-- ### Resume: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf) -->
-
-<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani) -->
 
 
 ## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Stats 
@@ -205,7 +178,7 @@ swcurity related  -->
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShuklaDevashree963&theme=github_dark" alt="Devashree's GitHub Profile Summary">
       </br>
       </br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuklaDevashree963&theme=github_dark" alt="Devashree's Streaks">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuklaDevashree963&theme=blue-green" alt="Devashree's Streaks">
       </br>
       </br>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=ShuklaDevashree963.ShuklaDevashree963" alt="Devashree's GitHub Visitors">
@@ -286,4 +259,21 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/aFlR16NXozWQ)
 
 
+ <!--   #### Testing  -->
+<!-- Unit testing, XCUITest --> 
 
+<!-- - 🤖 &nbsp; I am also I, OOPS, Agile, Best coding skills, Protocols, MVVM-C, VIPER, TDD etc -->
+  
+<!-- #### - Servers -->
+
+<!-- #### - Prtoject domains
+
+<!-- #### RSS link ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white) --> 
+
+<!-- sw ethics, leader ethis  -->
+
+
+<!-- #### - Blogs  -->
+
+
+<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani) -->
