@@ -127,7 +127,6 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
-    ![Charlse](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
   
 
@@ -149,6 +148,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 ![macOS](https://img.shields.io/badge/mac%20os_13.0.1-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS_16.4-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)
+![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
   
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
@@ -227,7 +228,7 @@ I am also a <img src="https://i.imgur.com/vEduRau.gif" width="25" /> health enth
 
 I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading books on personal development & financial literacy. My favorite ones are The Monk who sold his ferrari by Robin Sharma, Alchemist by Paulo Coelho in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
-I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backpacking and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Karnataka in 2017-2018, Kerala in 2019, Gwalior in 2021, Mumbai in 2022 etc and a lot more to go !!
+I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backpacking and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Mumbai in 2022, Gwalior in 2021, Kerala in 2019, Karnataka in 2017-2018, Goa in 2015 etc and a lot more to go !!
 
 
 
@@ -257,7 +258,7 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
  <!--   #### Testing  -->
 <!-- Unit testing, XCUITest --> 
 
-<!-- - 🤖 &nbsp; I am also I, OOPS, Agile, Best coding skills, Protocols, MVVM-C, VIPER, TDD etc -->
+<!-- - 🤖 &nbsp; I am also I, OOPS, Agile, Best coding skills, Protocols, MVVM-C, VIPER, TDD etc, accessibility, crashlytics, blueshift, Coordinator reactive patterns, APNS -> firbase, APNS, BS, -->
   
 <!-- #### - Servers --> 
 <!-- expressvpn, proton vpn -->
