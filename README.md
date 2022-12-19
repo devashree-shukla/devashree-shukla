@@ -110,8 +110,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 
   
   
-  #
-  #### I have also worked with these :
+  ## I have also worked with :
   
   #### Languages 
 
@@ -172,10 +171,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)
 ![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
-  
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
-
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
@@ -186,7 +183,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 ## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Github Stats 
 
 <div align="left">
-  <details><summary>More</summary>
+  <details><summary>Expand</summary>
   <p>
     
   Github Profile Trophies :
