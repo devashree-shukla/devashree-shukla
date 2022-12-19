@@ -16,7 +16,8 @@ I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--tim
 
 
 
-
+<br/>
+<br/>
 <a href="https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link"><img align="left" src="https://i.imgur.com/8KGknn2.png" height="45" /></a>
 <br/>
 <br/>
@@ -37,7 +38,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 - Looking forward for open source contributions on Github repos
 
 
-  
+<br/>
+<br/> 
 ### Languages
 
   #### Primary : 
@@ -133,7 +135,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
   
   
-
+<br/>
+<br/>
 ## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Core Competencies 
   As a developer, I am...
 Passionate about my Career
@@ -144,7 +147,8 @@ Passionate about my Career
 - Detail oriented
 
 
-
+<br/>
+<br/>
 ## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Workspace Setup
 
 ![Apple](https://img.shields.io/badge/Apple_iPhone_11-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
@@ -174,7 +178,8 @@ Passionate about my Career
 </p>
 </details>
 
-
+<br/>
+<br/>
 ## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Github Stats 
 
 <div align="left">
@@ -212,7 +217,8 @@ Passionate about my Career
 </div>
 
 
-
+<br/>
+<br/>
 ## <img src="https://i.imgur.com/S6FxPht.gif" width="45" /> Learning tools I use more
 
 ![LinkedIn Learning](https://img.shields.io/badge/linkedin%20learning-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -220,7 +226,8 @@ Passionate about my Career
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 
-
+<br/>
+<br/>
 ## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Reads I feed to mind:
 
 > - [Apple Newsroom](https://www.apple.com/newsroom/) - Apple newsRoom
@@ -238,10 +245,10 @@ Passionate about my Career
 > - [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
 
 
-
+<br/>
+<br/>
 ## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Leisure pursuit
 
-<details><summary>More</summary>
 <p>
   
 Outside the planetary of technologies and digital system, I enjoy pushing myself to develop new skills. My hobbies range from <img src="https://i.imgur.com/gDvk7LG.gif" width="25" /> Writing Poems, and touch tying to some whacky/creative ones like writing with my left hand, dressing up etc. Keep trying new expressions and good deeds.
@@ -253,9 +260,11 @@ I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading boo
 I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backpacking and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Mumbai in 2022, Gwalior in 2021, Kerala in 2019, Karnataka in 2017-2018, Goa in 2015 etc and a lot more to go !!
   
 </p>
-</details>
 
 
+
+<br/>
+<br/>
 ## <img src="https://i.imgur.com/YBAIdQC.gif" width="45" /> Connect with me 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shukladevashree963@gmail.com)
@@ -275,6 +284,10 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/aFlR16NXozWQ)
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 #
 ![MadeWithMarkDown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
