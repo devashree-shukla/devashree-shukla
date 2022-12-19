@@ -269,7 +269,6 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://devashree-shukla.medium.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/DevashreeShukla/)
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link)
 <!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/) -->
 
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://goodreads.com/devashree-shukla)
@@ -282,41 +281,3 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 
 #
 ![MadeWithMarkDown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-
-
- <!--   #### Testing  -->
-<!-- Unit testing, XCUITest --> 
-
-<!-- - 🤖 &nbsp; I am also I, OOPS, Agile, Best coding skills, Protocols, MVVM-C, VIPER, TDD etc, accessibility, crashlytics, blueshift, Coordinator reactive patterns, APNS -> firbase, APNS, BS, -->
-  
-<!-- #### - Servers --> 
-<!-- expressvpn, proton vpn -->
-
-<!-- #### - Prtoject domains
-
-<!-- #### RSS link ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white) --> 
-
-<!-- sw ethics, leader ethis  -->
-<!-- sw 
-- Break down problem into pieces 
-- Take 100% ownership
-- Be confident
-- Don't hesitate to ask help
-- over deliver to be achieve the absolute best performance of yourself
-- keep doing without focusing on results, nothing is waste, you will get outcome eventually 
-
-Leader 
-- Empathy
-- Be Giver 
-- Make concrete plan and evaluate over time 
-- Coordinate well between peers
-- Pair programming for critical issues
--->
-
-
-<!-- #### - Blogs  -->
-
-
-<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani) -->
-
-<!-- Certificates / appreciations -->
