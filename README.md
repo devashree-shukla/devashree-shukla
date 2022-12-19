@@ -110,7 +110,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 
   
   
-  ## I have also worked with :
+  ## I have also worked with...
   
   #### Languages 
 
@@ -143,8 +143,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   #### Frameworks 
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  
-  
+<br/>
+<br/>  
   
 
 ## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Core Competencies 
@@ -155,7 +155,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 - Exceptional Observation Skills
 - Self Driven & Self Motivated
 - Detail oriented
-
+<br/>
+<br/>  
 
 
 ## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Workspace Setup
@@ -177,8 +178,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
 <!-- Add photo -->
-
-
+<br/>
+<br/>
 
 ## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Github Stats 
 
@@ -211,22 +212,21 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
    </br>
    </br>
    </br>
-   
    </p>
   </details>
 </div>
+<br/>
+<br/>  
 
-
-
-## <img src="https://i.imgur.com/S6FxPht.gif" width="45" /> Learning tools I use more
+## <img src="https://i.imgur.com/S6FxPht.gif" width="45" /> Learning tools I use more...
 
 ![LinkedIn Learning](https://img.shields.io/badge/linkedin%20learning-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+<br/>
+<br/>  
 
-
-
-## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Reads I feed to mind:
+## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Reads I feed to mind...
 
 - [Apple Newsroom](https://www.apple.com/newsroom/) - Apple newsRoom
 - [Swift](https://docs.swift.org/swift-book/) - All about Swift 
@@ -241,8 +241,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 - [DevURLS](https://devurls.com/) - Aggregator site for all popular Developer news sources
 - [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
 - [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
-
-
+<br/>
+<br/>  
 
 ## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Leisure pursuit
 
@@ -255,10 +255,9 @@ I am also a <img src="https://i.imgur.com/vEduRau.gif" width="25" /> health enth
 I also love <img src="https://i.imgur.com/PqOiOdO.gif" width="25" /> reading books on personal development & financial literacy. My favorite ones are The Monk who sold his ferrari by Robin Sharma, Alchemist by Paulo Coelho in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
 I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backpacking and adventerous travelling too. I have been on solo trips to Rishikeash-UT in 2022, Mumbai in 2022, Gwalior in 2021, Kerala in 2019, Karnataka in 2017-2018, Goa in 2015 etc and a lot more to go !!
-  
 </p>
-
-
+<br/>
+<br/>  
 
 ## <img src="https://i.imgur.com/YBAIdQC.gif" width="45" /> Connect with me 
 
@@ -277,10 +276,9 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oatza_1/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/devashri_iosdev)
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/aFlR16NXozWQ)
-
-
-
-
+<br/>
+<br/>  
+<br/>
 
 #
 ![MadeWithMarkDown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
