@@ -15,13 +15,11 @@ I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--tim
 <!-- </details> -->
 
 
-
 <br/>
 <br/>
 <a href="https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link"><img align="left" src="https://i.imgur.com/8KGknn2.png" height="45" /></a>
 <br/>
 <br/>
-
 
 
 
@@ -38,8 +36,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 - Looking forward for open source contributions on Github repos
 
 
-<br/>
-<br/> 
+
 ### Languages
 
   #### Primary : 
@@ -135,8 +132,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
   
   
-<br/>
-<br/>
+
 ## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Core Competencies 
   As a developer, I am...
 Passionate about my Career
@@ -147,8 +143,7 @@ Passionate about my Career
 - Detail oriented
 
 
-<br/>
-<br/>
+
 ## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Workspace Setup
 
 ![Apple](https://img.shields.io/badge/Apple_iPhone_11-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
@@ -178,8 +173,8 @@ Passionate about my Career
 </p>
 </details>
 
-<br/>
-<br/>
+
+
 ## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Github Stats 
 
 <div align="left">
@@ -217,8 +212,7 @@ Passionate about my Career
 </div>
 
 
-<br/>
-<br/>
+
 ## <img src="https://i.imgur.com/S6FxPht.gif" width="45" /> Learning tools I use more
 
 ![LinkedIn Learning](https://img.shields.io/badge/linkedin%20learning-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -226,27 +220,25 @@ Passionate about my Career
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 
-<br/>
-<br/>
+
 ## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Reads I feed to mind:
 
-> - [Apple Newsroom](https://www.apple.com/newsroom/) - Apple newsRoom
-> - [Swift](https://docs.swift.org/swift-book/) - All about Swift 
-> - [Apple Tech](https://developer.apple.com/documentation/technologies) - All about apple technologies
-> - [Github Trends](https://github.com/trending/) - Daily, weekly and monthly trending repos on github
-> - [Hacker News](https://news.ycombinator.com/) - Top trending tech news of the day
-> - [Ben's Bites](https://www.bensbites.co) - Top trending news of AI
-> - [TechontheEdge](https://www.techontheedge.com/) - Staying updated with everything related to AI, ML and NLP
-> - [Volv](https://volvapp.page.link/BSQ4) - News of the day
-> - [Lobsters](https://lobste.rs/) - To Find Geekish articles catching eyes of the nerds!
-> - [TechURLS](https://techurls.com/) - Aggregator site for all popular tech news sources
-> - [DevURLS](https://devurls.com/) - Aggregator site for all popular Developer news sources
-> - [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
-> - [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
+- [Apple Newsroom](https://www.apple.com/newsroom/) - Apple newsRoom
+- [Swift](https://docs.swift.org/swift-book/) - All about Swift 
+- [Apple Tech](https://developer.apple.com/documentation/technologies) - All about apple technologies
+- [Github Trends](https://github.com/trending/) - Daily, weekly and monthly trending repos on github
+- [Hacker News](https://news.ycombinator.com/) - Top trending tech news of the day
+- [Ben's Bites](https://www.bensbites.co) - Top trending news of AI
+- [TechontheEdge](https://www.techontheedge.com/) - Staying updated with everything related to AI, ML and NLP
+- [Volv](https://volvapp.page.link/BSQ4) - News of the day
+- [Lobsters](https://lobste.rs/) - To Find Geekish articles catching eyes of the nerds!
+- [TechURLS](https://techurls.com/) - Aggregator site for all popular tech news sources
+- [DevURLS](https://devurls.com/) - Aggregator site for all popular Developer news sources
+- [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
+- [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
 
 
-<br/>
-<br/>
+
 ## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Leisure pursuit
 
 <p>
@@ -263,8 +255,6 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 
 
 
-<br/>
-<br/>
 ## <img src="https://i.imgur.com/YBAIdQC.gif" width="45" /> Connect with me 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shukladevashree963@gmail.com)
@@ -284,10 +274,9 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/aFlR16NXozWQ)
 
 
-<br/>
-<br/>
-<br/>
-<br/>
+
+
+
 #
 ![MadeWithMarkDown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
