@@ -1,36 +1,40 @@
-# <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  About me
+# <img src="https://i.imgur.com/DGhmVO5.gif" width="45" />  Hey!
 
 <img align="right" src="https://i.imgur.com/x8XclAA.gif" width="250" />
 
 I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--timespan:start(%d)(2015-06-01)-->**_7_+**<!--timespan:end(%d)(2015-06-05)--> **_years_** experience, with a sound grip on **_iOS/tvOS_** technologies which help me manifest ideas into functional and reliable mobile apps.
 
-<details><summary>More</summary>
+<!-- <details><summary>Work summary</summary> -->
 <p>
 
-Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com) team as a **_Senior Software Engineer_** to help them on simplyfying lives through digital transformations. I have been part of 2 Major projects, including Discovery's OTT platform and Govt's Income tax mobile apps for the goverment. 
+> Currently, I am working with [Robosoft Technologies](https://www.robosoftin.com) team as a **_Senior Software Engineer_** to help them on simplyfying lives through digital transformations. I have been part of 2 Major projects, including Discovery's OTT platform and Govt's Income tax mobile apps for the goverment. 
 
-> I utilise my knowledge  & skill-set in versatile ways to deliver values. I admire being a guide to all the junior team members and help them onboard and navigate the projects. I was recently awareded for being a emerging team-lead for one of the core modules in my OTT project. I've succesfully tackled time-sensitive high-priority tasks by collaborating with various stackholders precisely, along with my software development activities, resulted in avoiding compliance issues for the company. This gave me a lot of new insights & great learning opportuinities. I always focus on being invaluable asset for the companies I have worked with.
+> I utilise my knowledge & skill-set in efficient ways to deliver value. I was recently awarded for being an emerging team-lead for one of the core modules in our OTT project. I've succesfully tackled time-sensitive high-priority tasks by collaborating with various stackholders and succesfully executing software development activities, which resulted in avoiding compliance issues for the company. I always thrive at being an invaluable asset for the companies I have worked for. I admire being a guide to all the junior team members and help them onboard and navigate the projects.
 
 </p>
-</details>
+<!-- </details> -->
 
 
 
-Download detailed  [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link)  from here
+
+<a href="https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link"><img align="left" src="https://i.imgur.com/8KGknn2.png" height="45" /></a>
+<br/>
+<br/>
 
 
 
-# <img src="https://i.imgur.com/bgHtgeD.gif" width="45" /> Technical Skills 
+
+# <img src="https://i.imgur.com/bgHtgeD.gif" width="45" /> Technical skills I dived in so far...
 
 Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learning and extending my skills for...
-- [ ] Learning SwiftUI
-- [ ] Learning and exploring Artifical intelligence and Machine Learning
-- [ ] Exploring Cross platform Flutter ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) , On top of Android Java knowledge
-- [ ] Improving on Data structures and Algorithms
-- [ ] Improving on leadership skills 
-- [ ] Improving on Architectural fundamentals for any apps
-- [ ] On way to start Blogging to extend my help towards fellow developers and share experiences
-- [ ] Looking forward for open source contributions on Github repos
+- Learning SwiftUI
+- Learning and exploring Artifical intelligence and Machine Learning
+- Exploring Flutter to develop cross platform apps
+- Improving upon Data structures and Algorithms
+- Improving upon Leadership Skills
+- Improving upon Architectural fundamentals for any apps
+- On way to start Blogging to extend my help towards fellow developers and share experiences
+- Looking forward for open source contributions on Github repos
 
 
   
@@ -39,7 +43,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   #### Primary : 
   
   ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-  Objective C
+  ![Objective C](https://img.shields.io/badge/objective%20c-F6A90E?style=for-the-badge&logo=apple&logoColor=white)
   
   #### I have also touched this code bases :
   
@@ -71,7 +75,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   
   
 
-  #### CICD
+  #### CI & CD
   
   ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -115,28 +119,29 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  Charlse
-  Console
-  Terminal
+  ![Charles](https://img.shields.io/badge/Charles%20Proxy-b0e0e6?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![Console]()
+  ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=linux&logoColor=white)
   
   
   
   #### Version Control 
   
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
   
   
 
 ## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Core Competencies 
   As a developer, I am...
-> - Passionate about my career
-> - Individual contributor as well as team player, eager to manage team too
-> - Self leaner, also quick learner, I always observe & learn from my experiences
-> - Self driven, self motivated
-> - Detail oriented
+Passionate about my Career
+- Individual Contributor as well as a Team Player
+- Self Educated Quick Learner
+- Exceptional Observation Skills
+- Self Driven & Self Motivated
+- Detail oriented
 
 
 
@@ -155,7 +160,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)
 ![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
   
-<details><summary>More</summary>
+<details><summary>More tools I rely upon</summary>
 <p>
   
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
@@ -170,7 +175,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 </details>
 
 
-## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Stats 
+## <img src="https://i.imgur.com/MRoZbvg.gif" width="45" /> Github Stats 
 
 <div align="left">
   <details><summary>More</summary>
@@ -208,15 +213,15 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
 
 
 
-## <img src="https://i.imgur.com/S6FxPht.gif" width="45" /> Learning tools
+## <img src="https://i.imgur.com/S6FxPht.gif" width="45" /> Learning tools I use more
 
-Linked in learning
+![LinkedIn Learning](https://img.shields.io/badge/linkedin%20learning-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 
 
-## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> My Daily Reads:
+## <img src="https://user-images.githubusercontent.com/38584944/208281549-8adc00da-5b9a-49d0-9d03-748432e9dbf7.gif" width="45"> Reads I feed to mind:
 
 > - [Apple Newsroom](https://www.apple.com/newsroom/) - Apple newsRoom
 > - [Swift](https://docs.swift.org/swift-book/) - All about Swift 
@@ -225,22 +230,16 @@ Linked in learning
 > - [Hacker News](https://news.ycombinator.com/) - Top trending tech news of the day
 > - [Ben's Bites](https://www.bensbites.co) - Top trending news of AI
 > - [TechontheEdge](https://www.techontheedge.com/) - Staying updated with everything related to AI, ML and NLP
-
-<details><summary>More</summary>
-<p>
-  
 > - [Volv](https://volvapp.page.link/BSQ4) - News of the day
 > - [Lobsters](https://lobste.rs/) - To Find Geekish articles catching eyes of the nerds!
 > - [TechURLS](https://techurls.com/) - Aggregator site for all popular tech news sources
 > - [DevURLS](https://devurls.com/) - Aggregator site for all popular Developer news sources
 > - [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
 > - [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
-  
-</p>
-</details>
 
 
-## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Hobbies
+
+## <img src="https://i.imgur.com/lc6xs5e.gif" width="45" />  Leisure pursuit
 
 <details><summary>More</summary>
 <p>
@@ -302,11 +301,11 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 - keep doing without focusing on results, nothing is waste, you will get outcome eventually 
 
 Leader 
+- Empathy
 - Be Giver 
 - Make concrete plan and evaluate over time 
 - Coordinate well between peers
 - Pair programming for critical issues
-- 
 -->
 
 
