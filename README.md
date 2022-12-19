@@ -293,6 +293,21 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 <!-- #### RSS link ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white) --> 
 
 <!-- sw ethics, leader ethis  -->
+<!-- sw 
+- Break down problem into pieces 
+- Take 100% ownership
+- Be confident
+- Don't hesitate to ask help
+- over deliver to be achieve the absolute best performance of yourself
+- keep doing without focusing on results, nothing is waste, you will get outcome eventually 
+
+Leader 
+- Be Giver 
+- Make concrete plan and evaluate over time 
+- Coordinate well between peers
+- Pair programming for critical issues
+- 
+-->
 
 
 <!-- #### - Blogs  -->
