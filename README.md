@@ -64,12 +64,12 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Charles](https://img.shields.io/badge/Charles%20Proxy-b0e0e6?style=for-the-badge&logo=styled-components&logoColor=white)
   ![Console]()
-  ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=linux&logoColor=white)
   
   
   
   #### Other Tools
   
+  ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=linux&logoColor=white)
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
@@ -81,6 +81,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
+  ![Sourcetree]()
   
   
   
