@@ -16,7 +16,7 @@ I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--tim
 
 
 
-<a href="https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link"><img align="left" src="https://i.imgur.com/8KGknn2.png" height="45" /></a>
+<a href="https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link"><img align="left" src="https://i.imgur.com/s3WY3Nz.png" height="45" /></a>
 <br/>
 <br/>
 <br/>
@@ -62,8 +62,8 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   #### Debugging Tools
   
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Charles](https://img.shields.io/badge/Charles%20Proxy-b0e0e6?style=for-the-badge&logo=styled-components&logoColor=white)
-  ![Console]()
+  ![Charles](https://img.shields.io/badge/Charles%20Proxy-b0e0e6?style=for-the-badge&logo=styled-components&logoColor=black)
+  ![Console](https://img.shields.io/badge/Console-F6A90E?style=for-the-badge&logo=apple&logoColor=black)
   
   
   
@@ -81,7 +81,7 @@ Currently, I am <img src="https://i.imgur.com/S6FxPht.gif" width="25" /> learnin
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
-  ![Sourcetree]()
+  ![Sourcetree](https://img.shields.io/badge/sourcetree-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
   
   
