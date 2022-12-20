@@ -16,7 +16,7 @@ I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--tim
 
 
 
-<a href="https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link"><img align="left" src="https://i.imgur.com/s3WY3Nz.png" height="45" /></a>
+<a href="https://drive.google.com/file/d/1os71aS26liSNITBMNaP-_RHYYGL2BooC/view?usp=share_link"><img align="left" src="https://i.imgur.com/8soamMo.png" height="45" /></a>
 <br/>
 <br/>
 <br/>
