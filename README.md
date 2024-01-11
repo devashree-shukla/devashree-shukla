@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.imgur.com/x8XclAA.gif" width="250" />
 
-I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--timespan:start(%d)(2015-06-01)-->**_7_+**<!--timespan:end(%d)(2015-06-05)--> **_years_** experience, with a sound grip on **_iOS/tvOS_** technologies which help me manifest ideas into functional and reliable mobile apps.
+I am **_Devashree Shukla_**, a **_versatile Apple developer_**, I posses <!--timespan:start(%d)(2015-06-01)-->**_8_+**<!--timespan:end(%d)(2015-06-05)--> **_years_** experience, with a sound grip on **_iOS/tvOS_** technologies which help me manifest ideas into functional and reliable mobile apps.
 
 <!-- <details><summary>Work summary</summary> -->
 <p>
