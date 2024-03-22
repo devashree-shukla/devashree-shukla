@@ -273,9 +273,7 @@ I love <img src="https://i.imgur.com/4kCZkzu.gifbackpacking" width="25" /> backp
 <!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/) -->
 
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://goodreads.com/devashree-shukla)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oatza_1/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/devashri_iosdev)
-[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/aFlR16NXozWQ)
+
 <br/>
 <br/>  
 <br/>
